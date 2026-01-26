@@ -43,6 +43,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4525787590923476"
           crossOrigin="anonymous"
         ></script>
+        <script src="https://pl28558255.effectivegatecpm.com/b7/a0/d3/b7a0d302adcffea375f85597716e630e.js"></script>
+        <script src="https://pl28574892.effectivegatecpm.com/0b/c0/5e/0bc05e9bbc0f51e002c179a37a0f19d2.js"></script>
         <Meta />
         <Links />
       </head>
